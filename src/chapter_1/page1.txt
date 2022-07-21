@@ -1,6 +1,5 @@
 
 
-this is the start of my book
-page 1will help us to get started
-
-Java is wonderful programming language.z
+this is the start of my book.
+page 1will help us to get started.
+Java is wonderful programming language!
